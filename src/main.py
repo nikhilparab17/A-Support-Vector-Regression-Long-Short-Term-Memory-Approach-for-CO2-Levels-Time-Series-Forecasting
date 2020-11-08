@@ -1,8 +1,6 @@
 import naive
 import arima
-import varma
 import svr
-#import lstm
 
 import csv
 import datetime as dt
