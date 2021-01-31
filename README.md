@@ -7,7 +7,7 @@ Neural Network[LSTM], Support Vector Regression[SVR] and Seasonal Auto-Regressiv
 
 
 
-source files(.py) :
+source python(.py) files:
 
 src_py/co2_forecasting_arima.py [CO2 forecasting using SARIMA model]
 
@@ -17,7 +17,7 @@ src_py/co2_forecasting_svr.py [CO2 forecasting using SVR model]
 
 
 
-source files(.ipynb) :
+source python notebook(.ipynb) files :
 
 src_ipynb/co2_forecasting_arima.ipynb [CO2 forecasting using SARIMA model]
 
@@ -27,11 +27,12 @@ src_ipynb/co2_forecasting_svr.ipynb [CO2 forecasting using SVR model]
 
 
 
-input data :
+dataset :
 
 data/co2_dataset_preprocess.xlsx
 
-cross-validation dataset:
+
+cross-validation dataset :
 
 data/cv/
 
