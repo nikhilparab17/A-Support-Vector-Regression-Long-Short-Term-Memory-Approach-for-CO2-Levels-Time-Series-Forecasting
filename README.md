@@ -1,5 +1,4 @@
 # A Support Vector Regression & Long Short-Term Memory Approach for CO2 Levels Time Series Forecasting
-CS229 Final Project(Fall 2020)
 
 Time series forecasting of CO2 levels using machine learning models like Long Short-Term Memory
 Neural Network[LSTM], Support Vector Regression[SVR] and Seasonal Auto-Regressive Integrated Moving Average [SARIMA].
@@ -7,7 +6,7 @@ Neural Network[LSTM], Support Vector Regression[SVR] and Seasonal Auto-Regressiv
 
 
 
-**source python(.py) files :**
+**_source python(.py) files :_**
 
 src_py/co2_forecasting_arima.py [CO2 forecasting using SARIMA model]
 
@@ -17,7 +16,7 @@ src_py/co2_forecasting_svr.py [CO2 forecasting using SVR model]
 
 
 
-**source python notebook(.ipynb) files :**
+**_source python notebook(.ipynb) files :_**
 
 src_ipynb/co2_forecasting_arima.ipynb [CO2 forecasting using SARIMA model]
 
@@ -27,20 +26,20 @@ src_ipynb/co2_forecasting_svr.ipynb [CO2 forecasting using SVR model]
 
 
 
-**dataset :**
+**_dataset :_**
 
 data/co2_dataset_preprocess.xlsx
 
 
-**cross-validation dataset :**
+**_cross-validation dataset :_**
 
 data/cv/
 
 
 
-**example commands :**
+**_example commands :_**
 
-ARIMA model "python co2_forecasting_arima.py"
+arima model- _"python co2_forecasting_arima.py"_
 
-LSTM model "python co2_forecasting_lstm.py"
+lstm model- _"python co2_forecasting_lstm.py"_
 
