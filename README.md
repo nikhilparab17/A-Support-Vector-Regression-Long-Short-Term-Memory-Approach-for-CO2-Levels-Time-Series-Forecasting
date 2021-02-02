@@ -12,17 +12,6 @@ src_py/co2_forecasting_lstm.py (LSTM model CO2 forecasting)
 src_py/co2_forecasting_svr.py (SVR model CO2 forecasting)
 
 
-
-**_source python notebook(.ipynb) files :_**
-
-src_ipynb/co2_forecasting_arima.ipynb (SARIMA model CO2 forecasting)
-
-src_ipynb/co2_forecasting_lstm.ipynb (LSTM model CO2 forecasting)
-
-src_ipynb/co2_forecasting_svr.ipynb (SVR model CO2 forecasting)
-
-
-
 **_dataset :_**
 
 data/co2_dataset_preprocess.xlsx
